@@ -116,9 +116,13 @@
               > La longitud debe ser de al menos 8 caracteres.
             
         * En caso no se cumpla las condiciones indicadas, es API devolvera el siguiente mensaje:
-            ![img.png](img.png)
+            ![img.png](src/main/resources/static/img9.png)
             
             * El mensaje arroja error ya que no se cumple con los requisitos.
+
+## Diagrama
+
+![Diagrama.png](src/main/resources/static/Diagrama.png)
 
 ## Contribuir
 
